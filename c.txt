@@ -1,2 +1,6 @@
 Primer linea del capitulo c
+<<<<<<< HEAD
 Y todos vivieron felices para siempre FIN!
+=======
+Y todos murieron FIN!
+>>>>>>> final-tragico
